@@ -1,0 +1,1 @@
+This project involves the analysis of a sample malware. The goal is to understand its behavior, identify its techniques, and create mitigations. The analysis includes reverse engineering, dynamic analysis, and identifying key indicators of compromise (IOCs).
