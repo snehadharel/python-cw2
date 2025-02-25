@@ -1,0 +1,8 @@
+username= abc & password=xyz
+login failed
+username= attacker & password= hacker
+
+curl -O http://example.com/example.txt
+
+
+

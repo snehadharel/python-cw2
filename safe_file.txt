@@ -1,0 +1,1 @@
+I have developed a steganography tool aimed at embedding and extracting secret messages within image files. Steganography, unlike encryption, hides information in plain sight by embedding it in files like images, audio, or text, making it an effective method for covert communication.
